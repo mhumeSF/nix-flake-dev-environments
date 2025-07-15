@@ -29,6 +29,7 @@
             cowsay
             ansible
             ansible-lint
+            awscli2
             python3Packages.dnspython
             python3Packages.molecule
             python3Packages.molecule-plugins
